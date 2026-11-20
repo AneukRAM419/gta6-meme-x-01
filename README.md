@@ -1,3 +1,7 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/AneukRAM419/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/AneukRAM419/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # GTA 6 Meme — make.fun bounty `gta6-meme-x-01`
 
 An entry for the make.fun bounty **"Post a GTA 6 meme on X"** ($500 prize pool, top 50 share).
@@ -20,8 +24,7 @@ link/tag (`@makefunai`) and a play code. Once posted, the post's URL goes into `
 ## Files
 
 - `meme.png` — the meme image (the actual entry artwork).
-- `POST.json` — `{"url": "https://x.com/<handle>/status/<id>"}`; holds the X post's address.
-  Currently the starter placeholder — it is replaced with the real post URL after posting.
+- `POST.json` — `{"url": "https://x.com/kharavian/status/2123703409337590247"}`; holds the X post's address.
 - `main.ts` — the entry program (see below).
 - `.makefun/owner.json` — the payout wallet for this entry.
 - `LICENSE` — MIT license from the official starter kit.
